@@ -1,0 +1,4 @@
+Preventivo, llantas, 60, 4500
+Preventivo, bujías, 45, 3000
+Correctivo, llantas, 90, 6000
+Correctivo, zapatas, 120, 10000

@@ -1,0 +1,4 @@
+GEC-2411, Eduardo Cueva, llantas, 12, 32500
+GAA-231, Andrea Martinez, zapatas, 120, 100
+GEC-2411, Eduardo Cueva, zapatas, 180, 500
+GAA-231, Andrea Martinez, bujías, 40, 500
